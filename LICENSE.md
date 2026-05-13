@@ -1,4 +1,4 @@
-
+vip iStat Menus for macOS Helper | startup-manager + screenshot-tools offers the most advanced iStat Menus for macOS helper, with startup-manager and screenshot-tools. Ideal for
 
 
 
